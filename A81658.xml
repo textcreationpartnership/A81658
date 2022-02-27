@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The brides preparation. By the Lady Eleanor:.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81658</idno>
+            <idno type="STC">Wing D1982</idno>
+            <idno type="STC">Thomason E274_13</idno>
+            <idno type="STC">ESTC R209899</idno>
+            <idno type="EEBO-CITATION">99868750</idno>
+            <idno type="PROQUEST">99868750</idno>
+            <idno type="VID">159493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The brides preparation. By the Lady Eleanor:.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year March 1644. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: after Eleanor: "Davis"; between March and 1644: "21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159493:1" rendition="simple:additions"/>
+            <p>THE BRIDES Preparation.</p>
+            <p>By the Lady <hi>ELEANOR:</hi> 
+               <add>DAVIS</add>
+            </p>
+            <p>For it is the day of the <hi>Lords</hi> vengeance: and the yeare of recompence for the con<g ref="char:EOLhyphen"/>troveoſie of Sion: <hi>(Iſaiah</hi> 34.</p>
+            <p>Printed in the year <hi>March</hi> 
+               <add>21<hi rend="sup">th</hi>
+               </add> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:159493:2"/>
+            <pb facs="tcp:159493:2" rendition="simple:additions"/>
+            <head>Of the Signification and Meaning of that <hi>Celeſtiall</hi> foure-ſquare <hi>Citie:</hi> meaſur'd 144 Cubits.</head>
+            <div type="introduction">
+               <head>Revelation, 21.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>S moſt clearly ſhews: the Yeare of GOD 1644: VVith our Lady-Dayes <hi>deſcrip<g ref="char:EOLhyphen"/>tion.</hi> &amp; of the <hi>Worlds</hi> Creation, and the things therein made in the <hi>Spring:</hi> to whoſe beauty, all the glory of the <hi>Jndies</hi> Not to bee compar'd, which
+<pb n="4" facs="tcp:159493:3" rendition="simple:additions"/>quickens and revives every <hi>Creature:</hi> So unto <hi>Nothing againe diſolv'd,</hi> to be at the <hi>ſame ſeaſon</hi> even ſeaſonable, <hi>for the quick and dead their meeting.</hi> Even then the bleſſed glorious <hi>Reſurrection,</hi> as the great <hi>Maſter-builder,</hi> ſaying, it is done. <hi>J am ALPHA and OME<g ref="char:EOLhyphen"/>GA, The beginning and the end;</hi> The yeare finiſhed, as much to ſay.</p>
+               <p>And ſo when fruit in perfection at the fall then fell <hi>Adam: But proceeding with this HOLY-DAY</hi> partly why pre<g ref="char:EOLhyphen"/>ferrd becauſe this ſecreet diſcloſed to one of that <hi>SEX.</hi> Beſides a day obſervd of payment, like the doy of judgement every ones ſervice which rewards <hi>even the appointed time then:</hi> when the Day and Night wayes equall houres the precious Spring.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:159493:3"/>
+               <epigraph>
+                  <bibl>
+                     <hi>Revelation.</hi> XXI.</bibl>
+                  <q>And J ſaw a New heaven, and a New earth, for the firſt were paſſed a<g ref="char:EOLhyphen"/>way.</q>
+               </epigraph>
+               <p>And I <hi>John (Joh: annes)</hi> ſaw the holy Citie, <hi>comming downe from Hea<g ref="char:EOLhyphen"/>ven as a Bride prepared, &amp;c.</hi> ſhew'd by one of the <hi>ſeven Angels</hi> (to wit) <hi>Win<g ref="char:EOLhyphen"/>ged time</hi> (the 1700. yeare) which had <hi>the ſeven Vials full of the ſeven laſt plagues, ſaying, J will ſhew Thee the bride the Lambes wife;</hi> Even this <hi>vxorem Agni:</hi> The <hi>ſpring</hi> in her variety of Colours, the <hi>Earth</hi> in all her riches, who begins with; it: for <hi>Times</hi> farwell, ſhewed or ſignified. His laſt houre glaſſe run out.</p>
+               <pb n="8" facs="tcp:159493:4"/>
+               <p> But to bee briefe herein, as every Moneth of the Yeare ſhews, Named ſeverally, by the <hi>Tribes and Apoſtles</hi> Names, written on thoſe Gates and Foundations twelve in number: where <hi>Juda</hi> for <hi>January</hi> and the like, and the <hi>Wall</hi> anſwerable thereto twelve thou<g ref="char:EOLhyphen"/>ſand <hi>furlongs</hi> all bidding time <hi>a thouſand times</hi> farwell: So by the meaſure of the <hi>Angel, Time ſo ſwiftly fleeing</hi> a father of many generations, even the Yeare <hi>a<g ref="char:EOLhyphen"/>foreſaid</hi> 1644: <hi>is meaſured by thoſe Cubits</hi> 144. <hi>With the foure quarters of the Yeare,</hi> three <hi>moneths alotted each: Of ſuch even Length and Breadth, all foure-ſquare: Three to the Eaſt, and three to the Weſt, as it were, &amp;c. where the equall Day and Night put into the reckoning or ballance. And ſo every Gate of one pearle, one and thirty dayes a peice: The moſt of theſe</hi> Vni<g ref="char:EOLhyphen"/>ons, <hi>ſo going on with this vaile of miſery en<g ref="char:EOLhyphen"/>ded.</hi>
+               </p>
+               <pb n="7" facs="tcp:159493:4"/>
+               <p> And farther <hi>for</hi> the very place thus <hi>figuring aged time:</hi> the Tower of <hi>Londons</hi> ſi<g ref="char:EOLhyphen"/>tuation repreſented, the <hi>Cities ſafety,</hi> that great ſtore houſe even ſhew'd St. <hi>John</hi> then newly done: <hi>unreparable now not worth your beholding to what then was:</hi> turned in<g ref="char:EOLhyphen"/>to a priſon, <hi>a place of teares and death,</hi> toge<g ref="char:EOLhyphen"/>ther with the ſtreet of this Citie <hi>not un<g ref="char:EOLhyphen"/>known of pure Gold like tranſparet glaſſe:</hi> the mint on both ſides lettic'd. VVith that Chriſtall Spring proceeding out of the Throne of God and the Lambe, as <hi>Agnus</hi> for <hi>Anno Dom:</hi> and <hi>Menſura</hi> for <hi>Men<g ref="char:EOLhyphen"/>ſes, and Tempus for Templum,</hi> &amp;c. And ſo the tree of life <hi>ſignificant alſo</hi> which yeelds it monthly fruit for the <hi>healing of Nati<g ref="char:EOLhyphen"/>ons whoſe evill incureable without it.</hi> to wit, The laſt day reveale their only remedy: like that water of life, <hi>free for every one</hi> to <hi>come and take it,</hi> ſo farre from being <hi>for<g ref="char:EOLhyphen"/>bidden or</hi> within the compaſſe of any curſe
+<pb n="8" facs="tcp:159493:5"/>or point of curioſity that it is become a blesſing, <hi>no leſſe then one of the commande<g ref="char:EOLhyphen"/>ment to doe it.</hi> As the ſecond death appoin<g ref="char:EOLhyphen"/>ted to be their portion the fearfull and un<g ref="char:EOLhyphen"/>beleevers which ſhall add or deminiſh from the words of this book and <hi>faithfull</hi> propheſie ſhewing the Lords ſecond comming.</p>
+               <p>Seconded thus in the 7. Chap. and Chap. 14. Where concerning the great blow in ſuch a yeare all going upon that great number. <hi>And I ſaw foure Angels ſtanding on the foure corners of the earth hol<g ref="char:EOLhyphen"/>ding the foure winds, that the wind ſhould not blow, till a hundred forty and foure ſealed,</hi> As it were our great Army: For ſo no queſtion to be made of what Nation that company. Cap. 7, verſe 14. In <hi>Albion</hi> Array St. <hi>Iohns</hi> reply to that Elder, in plaine Eng<g ref="char:EOLhyphen"/>liſh makes it knowne: Saying SIR, thou knoweſt and whence they came, If thou art one of the 24. Elders ſince the Conqueſt your Majeſtie knowes them as much to ſay whoſe reign concluding i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with his Corownation, thus Mat. 25. <hi>Where the Kingdome of Heaven likend to five wiſe Virgins and five fooliſh,</hi> no doubt pointes at the bleſſed Virgins feaſt <hi>not</hi> to be unprepared then. So make no tar<g ref="char:EOLhyphen"/>ying O my God.</p>
+            </div>
+         </div>
+         <trailer>FJNIS.</trailer>
+      </body>
+   </text>
+</TEI>
